@@ -54,12 +54,9 @@ git clone https://github.com/your_username/cough-disease-detection-using-CNN.git
 
 2. Install dependencies
 
-3. Run the inference script with your cough recordings:
-```bash
-python classify_cough.py your_cough_recording.wav
-```
+3. Add the dataset to your Google Drive
 
----
+4. Mount your Drive to the Notebook 
 
 #### Conclusion:
 
