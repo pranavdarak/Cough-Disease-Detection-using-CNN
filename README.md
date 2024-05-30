@@ -1,4 +1,4 @@
-## Cough Classification using Convolutional Neural Networks
+# Cough Classification using Convolutional Neural Networks
 
 ---
 
@@ -70,6 +70,7 @@ This project showcases the potential of deep learning in healthcare by providing
 #### Contributors:
 
 - [Pranav Darak](https://github.com/pranavdarak)
+- [Girija Chachada](https://github.com/girijachachada)
 - [Aastha Singh](https://github.com/aasthasingh14)
 - [Dhanshree Dharpure](https://github.com/Dhanshree0802)
 
