@@ -70,7 +70,8 @@ This project showcases the potential of deep learning in healthcare by providing
 #### Contributors:
 
 - [Pranav Darak](https://github.com/pranavdarak)
-- [Co-contributor Name](https://github.com/co_contributor_username)
+- [Aastha Singh](https://github.com/aasthasingh14)
+- [Dhanshree Dharpure](https://github.com/Dhanshree0802)
 
 ---
 
