@@ -49,13 +49,10 @@ The dataset used for training and testing the CNN model consists of four audio d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/cough-classification.git
+git clone https://github.com/your_username/cough-disease-detection-using-CNN.git
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. Install dependencies
 
 3. Run the inference script with your cough recordings:
 ```bash
