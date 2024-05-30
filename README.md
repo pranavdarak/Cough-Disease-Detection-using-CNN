@@ -1,4 +1,4 @@
-### Cough Classification using Convolutional Neural Networks
+## Cough Classification using Convolutional Neural Networks
 
 ---
 
