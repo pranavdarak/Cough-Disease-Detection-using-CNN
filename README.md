@@ -74,10 +74,4 @@ This project showcases the potential of deep learning in healthcare by providing
 
 ---
 
-#### License:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to contribute to this project by adding more cough recordings, improving the model architecture, or enhancing the user interface! Your contributions can make a significant impact on improving healthcare accessibility and quality worldwide.
